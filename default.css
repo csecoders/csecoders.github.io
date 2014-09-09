@@ -2,7 +2,9 @@
 	{
 		height: 100%;
 	}
-	
+	credit{
+		color: red;
+	}
 	body
 	{
 		margin: 0px;
